@@ -1,0 +1,19 @@
+asyncapi: 2.6.0
+info:
+  title: Moral dyads and concern focuses probability of immigration-related text
+  version: '0.1.0'
+defaultContentType: application/json
+channels:
+  moral_prediction:
+    publish:
+      message:
+        payload:
+          type: object
+          properties:
+            text:
+              type: object
+              properties:
+                moral:
+                  type: string
+                topic:
+                  type: string
