@@ -10,9 +10,9 @@ The module contains the function (*textpreprocessed2moral*) that evaluates the m
 | 4  | Purity/Degradation   |
 | 5  | No moral             |
 
-and focus concerns:
+and concern focuses:
 
-| Id | Focus concern                            |
+| Id | Concern focus                            |
 |----|------------------------------------------|
 | 0  | Prescriptive (if it highlights a virtue) |
 | 1  | Prohibitive  (if it blames misbehaviour) |
