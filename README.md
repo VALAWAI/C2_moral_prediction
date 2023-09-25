@@ -1,5 +1,5 @@
 # C2_moral_prediction 
-The module contains the function (*textpreprocessed2moral*) that assess the moral dimension of Twitter posts in Italian about immigration [[1]](#1). Namely, limited to the immigration subject, the model is capable to classify tweets according to the expression of both moral dyads:
+The module contains the function (*textpreprocessed2moral*) that evaluates the moral dimension of Twitter posts in Italian about immigration [[1]](#1). Namely, limited to the immigration subject, the model is capable to classify tweets according to the expression of both moral dyads:
 
 | Id | Moral dyad           |
 |----|----------------------|
