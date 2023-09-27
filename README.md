@@ -33,7 +33,8 @@ A working example launching a Flask server to listen on port *127.0.0.1:5000* is
 
 ## References
 <a id="1">[1]</a> 
-Brugnoli E, Gravino P, Prevedello G (2023). 
+Brugnoli E, Gravino P, Prevedello G (2023).
+Moral values in social media for disinformation and hate speech analysis.
 VALE workshop at ECAI, (accepted)
 
 <a id="2">[2]</a> 
